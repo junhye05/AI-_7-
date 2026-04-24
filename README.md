@@ -162,8 +162,29 @@ Claude(4점): 긴 글 쓰기나 정교한 코딩, 깊이 있는 사고가 필요
 
 ```
 
+---
 
 
+---
+
+<br>
+<br>
+
+# 6주차 과제 중간고사 문제 만들기
+<img width="823" height="666" alt="image" src="https://github.com/user-attachments/assets/f3ffe3aa-40d5-40b7-b4e6-ce7655c4ab86" />
+<img width="801" height="698" alt="image" src="https://github.com/user-attachments/assets/8374fa39-3b80-4956-b74c-da5d744cd48c" />
+<img width="787" height="708" alt="image" src="https://github.com/user-attachments/assets/66034a46-1f8a-4173-bd92-fd0cd201600b" />
+<img width="798" height="719" alt="image" src="https://github.com/user-attachments/assets/438488bd-09de-4575-9a38-f5753a9388aa" />
+<img width="791" height="724" alt="image" src="https://github.com/user-attachments/assets/8a345738-cccf-405a-a46e-cf7316e79c73" />
+<img width="800" height="749" alt="image" src="https://github.com/user-attachments/assets/c33afe2a-e257-49db-b250-513faa235a6b" />
+<img width="800" height="695" alt="image" src="https://github.com/user-attachments/assets/aa29431f-7a8a-412b-8729-3a1da211c814" />
+<img width="791" height="701" alt="image" src="https://github.com/user-attachments/assets/1d0a18b7-8294-4905-a274-78474c21f09b" />
+<img width="789" height="740" alt="image" src="https://github.com/user-attachments/assets/18ed6f2f-73b8-499c-809c-ac3d8b6d8144" />
+<img width="776" height="730" alt="image" src="https://github.com/user-attachments/assets/1fec3d6e-df9e-4cfb-aa52-aad4e9eaa954" />
+<img width="788" height="695" alt="image" src="https://github.com/user-attachments/assets/86669b40-12de-446a-83f0-ef26fe421458" />
+<img width="787" height="717" alt="image" src="https://github.com/user-attachments/assets/7efa4c53-c883-4573-8536-393f62329814" />
+<img width="791" height="686" alt="image" src="https://github.com/user-attachments/assets/44a0a543-2b86-4f9f-8905-64189a47270b" />
+<img width="784" height="738" alt="image" src="https://github.com/user-attachments/assets/4e05f7f3-dffe-4ae6-9486-c230186b46f0" />
 
 
 
